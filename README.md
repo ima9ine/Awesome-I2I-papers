@@ -30,6 +30,13 @@ Measures the distance between real images and generated images by introducing a 
 Proposed as assessing similarity of two images by inner embedding of DNN. 
 [[paper]](https://arxiv.org/abs/1801.03924) [[github]](https://github.com/richzhang/PerceptualSimilarity)
 
+### Data set
+ * **Open Images**  
+ Open Images dataset includes 9M images annotated with 36M image-level labels, 15.8M bounding boxes, 2.8M instance segmentations, and 391k visual relationships.
+ 
+ * **Places**
+ The Places dataset is proposed for scene recognition and contains more than 2.5 million images covering more than 205 scene categories with more than 5,000 images per category.
+
 ### Style Transfer
 
 ### Inpainting
